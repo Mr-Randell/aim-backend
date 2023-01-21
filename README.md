@@ -3,7 +3,7 @@
 ## N/B: Most commits were made to the 'DEVELOP' branch for the purpose of error control such that final approved version is merged i>
 
 ## Focus 🎯
-Building AIM APP API that uses Active Record to access and persist data in a database, which will be used by a separate AIM React ap>
+Building AIM APP API that uses Active Record to access and persist data in a database, which will be used by a separate AIM React app
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
